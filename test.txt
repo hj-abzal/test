@@ -3,19 +3,11 @@ second commit
 third commit
 4 commit
 Hello Sam
-<<<<<<< HEAD
-
-nurik's commit
-
-=======
 hard working
-<<<<<<< HEAD
->>>>>>> b5838259086c45f2b76e4196e32e39cb9339687a
-=======
 Керемет!
 
 
 
 
 asus
->>>>>>> 453b99f307c8dd7aaf98339f3f9a3e835446f3a6
+rere
