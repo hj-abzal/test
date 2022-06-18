@@ -3,6 +3,10 @@ second commit
 third commit
 4 commit
 Hello Sam
-
+<<<<<<< HEAD
 
 nurik's commit
+
+=======
+hard working
+>>>>>>> b5838259086c45f2b76e4196e32e39cb9339687a
